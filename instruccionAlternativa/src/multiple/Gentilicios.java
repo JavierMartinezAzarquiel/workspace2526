@@ -15,7 +15,7 @@ public class Gentilicios {
 		pueblo = teclado.nextLine();
 		
 		switch (pueblo) {
-		case "Toledo":
+		case "Toledo","toledo":
 			System.out.println("Toledano/a");
 			break;
 		case "Illescas":
